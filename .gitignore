@@ -1,0 +1,15 @@
+cmake-build-debug/
+.idea/
+.git/
+.catkin_tools/
+.vscode/
+build/
+devel/
+install/
+logs/
+log/
+results/
+
+*.zip
+*.bag
+
