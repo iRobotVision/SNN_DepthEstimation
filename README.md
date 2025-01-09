@@ -17,8 +17,8 @@ The proposed model achieves superior performance compared to state-of-the-art AN
 
 
 
-> <font color=green>**We will release the source code of this work after the paper is accepted！** </font>
-
+<!-- > <font color=green>**We will release the source code of this work after the paper is accepted！** </font> -->
+> <font color=green>**The source code is coming soon！** </font>
 
 ## Architecture
 ![Pipeline](images/pipeline.png)
